@@ -1,0 +1,22 @@
+id: DE36C3CA9
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-02-24T10:29:52+00:00'
+last_modified: '2022-05-26T14:35:30.986075+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    f329:
+      image_group_id: I1PD95886
+      title: ཆུ་གཏོར་གྱི་ཆོ་ག།
+      total_pages: 1349
+      order: 41
+      base_file: f329.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
